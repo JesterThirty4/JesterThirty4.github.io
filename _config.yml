@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "JesterThirty4"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Tradutor amador, traduzindo obras da 07th Expansion para **Português Brasileiro**."
   location         : "Brasil"
   email            :
