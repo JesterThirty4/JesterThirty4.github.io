@@ -1,5 +1,7 @@
 ---
+title: Ciconia Phase 1
 layout: splash
+author_profile: false 
 header: 
   overlay_image: /assets/images/ciconia-page-overlay.jpg
   image_description: "Ciconia Phase 1"
