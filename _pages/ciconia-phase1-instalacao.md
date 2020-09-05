@@ -5,5 +5,5 @@ header:
   image_description: "Quando as Cegonhas Choram Phase 1"
   actions:
     - label: "Leia a sinópse aqui!"
-    url: "https://jesterthirty4.github.io/assets/pdfs/ciconia-sinopse.pdf"
+    url: "/assets/pdfs/ciconia-sinopse.pdf"
 ---
