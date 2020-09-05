@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Sobre Mim"
-    url: https://jesterthirty4.github.io/_pages/sobre-mim/
+    url: /_pages/sobre-mim/
   - title: "Contato"
-    url: https://jesterthirty4.github.io/_pages/contato
+    url: /_pages/contato
   - title: "Blog e Atualizações"
-    url: https://jesterthirty4.github.io/_pages/blog/
+    url: /_pages/blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
