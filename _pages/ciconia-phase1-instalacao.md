@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /ciconia-phase1-instalacao/
+permalink: /_pages/ciconia-phase1-instalacao/
 header: 
   overlay_image: /assets/images/ciconia-page-overlay.jpg
   actions:
