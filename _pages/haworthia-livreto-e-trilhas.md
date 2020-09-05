@@ -25,13 +25,13 @@ excerpt: >
 
 <p align=center><b>Trilha 5: Nome das Irmãs Gêmeas. O valor da canção.</b></p>
 
-<p align=center><b>Trilha 6: Utopia.</b></p>
+<p align=center><b>Trilha 6: Utopia</b></p>
 
-<p align=center><b>Trilha 7: O Planeta Que Amávamos.</b></p>
+<p align=center><b>Trilha 7: O Planeta Que Amávamos</b></p>
 
-<p align=center><b>Trilha 8: Céu do Vazio.</b></p>
+<p align=center><b>Trilha 8: Céu do Vazio</b></p>
 
-<p align=center><b>Trilha 9: Assim Disse Haworthia.</b></p>
+<p align=center><b>Trilha 9: Assim Disse Haworthia</b></p>
 
 
 
