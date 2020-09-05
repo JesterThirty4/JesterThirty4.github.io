@@ -3,6 +3,7 @@ title: Haworthia
 layout: splash
 header:
   overlay_image: /assets/images/haworthia-page-overlay.jpg
+  overlay_filter: 0.5
   image_description: "Haworthia"
   actions:
     - label: "Leia o livreto aqui!"
