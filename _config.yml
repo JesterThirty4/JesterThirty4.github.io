@@ -13,7 +13,6 @@
 # remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-include: ["_pages"]
 # Site Settings
 locale                   : "pt-BR"
 title                    : "Jester Translations"
@@ -284,8 +283,8 @@ defaults:
 defaults:
   # _pages
   - scope:
-      path: "/_pages/"
+      path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
 
