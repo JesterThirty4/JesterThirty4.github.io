@@ -4,6 +4,7 @@ layout: splash
 author_profile: false 
 header: 
   overlay_image: /assets/images/ciconia-page-overlay.jpg
+  overlay_filter: 0.3
   image_description: "Ciconia Phase 1"
   actions:
     - label: "Leia a sinópse aqui!"
