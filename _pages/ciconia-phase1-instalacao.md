@@ -13,6 +13,7 @@ excerpt: >
 ---
 
 <p align=center> **Como instalar o patch** </p>
+
 **1** Para instalar o patch, antes de tudo você precisa ter instalado Ciconia When They Cry em seu computador. Você pode adquirir Ciconia na Steam ou na MangaGamer. Meu patch também funciona com a Demo de 14 capítulos lançada recentemente; uma ótima maneira de analisar a obra para decidir se vale a pena comprar o produto oficial.
 
 **2** Após adquirir o jogo, baixe a versão mais recente do meu patch tradução clicando no botão abaixo (link direto).
