@@ -1,3 +1,4 @@
+---
 layout: splash
 header: 
   overlay_image: /assets/images/ciconia-page-overlay.jpg
@@ -5,3 +6,4 @@ header:
   actions:
     - label: "Leia a sinópse aqui!"
     url: "https://jesterthirty4.github.io/assets/pdfs/ciconia-sinopse.pdf"
+---
