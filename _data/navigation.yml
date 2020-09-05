@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sobre Mim"
+    url: https://jesterthirty4.github.io/_pages/sobre-mim/
+  - title: "Contato"
+    url: https://jesterthirty4.github.io/_pages/contato
+  - title: "Comunidade Quando Elas Choram"
+    url: https://jesterthirty4.github.io/_pages/comunidade-wtc/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
