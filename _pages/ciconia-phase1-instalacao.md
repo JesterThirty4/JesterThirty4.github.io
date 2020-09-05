@@ -1,6 +1,6 @@
 ---
 layout: splash
-  header: 
+ header: 
   overlay_image: /assets/images/ciconia-page-overlay.jpg
   actions:
     - label: "Leia a sinópse aqui!"
