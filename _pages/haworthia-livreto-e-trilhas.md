@@ -16,20 +16,20 @@ excerpt: >
 <p align=center><b>Ou acesse a playlist diretamente no youtube, clicando [aqui]().</b></p>
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
- 
-https://www.youtube.com/watch?v=dYvXibl7I58
- 
+
+https://www.youtube.com/embed/LgCBwQTJfDw
+
 <p align=center><b>Trilha 2: Arco-Íris Da Nostalgia</b></p>
 
-https://www.youtube.com/watch?v=b8NhN9TAi68&t=40s
+https://www.youtube.com/embed/b8NhN9TAi68
 
 <p align=center><b>Trilha 3: Venham! Para o Escritório da Punica-chan.</b></p>
 
-https://www.youtube.com/watch?v=BtPZ6F7lBlo&t=9s
+https://www.youtube.com/embed/BtPZ6F7lBlo
 
 <p align=center><b>Trilha 4: Justiça Rosa</b></p>
 
-https://youtu.be/LgCBwQTJfDw
+https://youtu.be/embed/LgCBwQTJfDw
 
 <p align=center><b>Trilha 5: Nome das Irmãs Gêmeas. O valor da canção.</b></p>
 
