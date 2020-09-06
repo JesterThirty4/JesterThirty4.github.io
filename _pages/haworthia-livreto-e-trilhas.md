@@ -13,7 +13,7 @@ excerpt: >
 ---
 
  <p align=center><b>Trilhas Sonoras abaixo! É recomendado ler o <a href "assets/pdfs/haworthia-livreto.pdf" >livreto</a> primeiro</p>
-<p align=center><b>Ou acesse a playlist diretamente no youtube, clicando <a href "https://www.youtube.com/watch?v=dYvXibl7I58&list=PLC2tE52b3x7FPZ0DZ0POn3rTvH9lVu1_-".>aqui</a></b></p>
+<p align=center><b>Ou acesse a playlist diretamente no youtube, clicando <a href "https://www.youtube.com/watch?v=dYvXibl7I58&list=PLC2tE52b3x7FPZ0DZ0POn3rTvH9lVu1_-".>aqui</a>.</b></p>
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
 <iframe width="426.5" height="240" src="https://www.youtube.com/embed/dYvXibl7I58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
