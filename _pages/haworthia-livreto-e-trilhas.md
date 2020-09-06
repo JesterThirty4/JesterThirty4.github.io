@@ -17,11 +17,19 @@ excerpt: >
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
  
+ <iframe width="853" height="480" src="https://www.youtube.com/embed/dYvXibl7I58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 <p align=center><b>Trilha 2: Arco-Íris Da Nostalgia</b></p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/b8NhN9TAi68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align=center><b>Trilha 3: Venham! Para o Escritório da Punica-chan.</b></p>
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/BtPZ6F7lBlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align=center><b>Trilha 4: Justiça Rosa</b></p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/LgCBwQTJfDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align=center><b>Trilha 5: Nome das Irmãs Gêmeas. O valor da canção.</b></p>
 
