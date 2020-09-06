@@ -12,7 +12,7 @@ excerpt: >
   Haworthia, coleção de dramas e trilhas sonoras do novo **Quando Elas Choram**.<br/>
 ---
 
- <p align=center><b>Trilhas Sonoras abaixo! É recomendado ler o <a href="assets/pdfs/haworthia-livreto.pdf" >livreto</a> primeiro.</p>
+ <p align=center><b>Trilhas Sonoras abaixo! É recomendado ler o <a href="assets/pdfs/haworthia-livreto.pdf" >livreto</a> primeiro.
 <p align=center><b>Ou acesse a playlist diretamente no youtube, clicando <a href="https://www.youtube.com/watch?v=dYvXibl7I58&list=PLC2tE52b3x7FPZ0DZ0POn3rTvH9lVu1_-">aqui</a>.</b></p>
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
@@ -23,7 +23,7 @@ excerpt: >
 <iframe width="426.5" height="240" src="https://www.youtube.com/embed/BtPZ6F7lBlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p align=center><b>Trilha 4: Justiça Rosa</b></p>
 <iframe width="426.5" height="240" src="https://www.youtube.com/embed/LgCBwQTJfDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p align=center><b>Trilha 5: Nome das Irmãs Gêmeas. O valor da canção.</b></p>
+<p align=center><b>Trilha 5: Os Nomes das Irmãs Gêmeas. A Importância da Canção.</b></p>
 <iframe width="426.5" height="240" src="https://www.youtube.com/embed/cPLAbnUNWp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p align=center><b>Trilha 6: Utopia</b></p>
 <iframe width="426.5" height="240" src="https://www.youtube.com/embed/qjn__2naemA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
