@@ -17,19 +17,19 @@ excerpt: >
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
 
-https://www.youtube.com/embed/LgCBwQTJfDw
+<iframe width="426.5" height="240" src="https://www.youtube.com/embed/dYvXibl7I58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p align=center><b>Trilha 2: Arco-Íris Da Nostalgia</b></p>
+<p align=center><b>Trilha 2: Arco-Íris da Nostalgia</b></p>
 
-https://www.youtube.com/embed/b8NhN9TAi68
+<iframe width="426.5" height="240" src="https://www.youtube.com/embed/b8NhN9TAi68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align=center><b>Trilha 3: Venham! Para o Escritório da Punica-chan.</b></p>
 
-https://www.youtube.com/embed/BtPZ6F7lBlo
+<iframe width="426.5" height="240" src="https://www.youtube.com/embed/BtPZ6F7lBlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align=center><b>Trilha 4: Justiça Rosa</b></p>
 
-https://youtu.be/embed/LgCBwQTJfDw
+<iframe width="426.5" height="240" src="https://www.youtube.com/embed/LgCBwQTJfDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align=center><b>Trilha 5: Nome das Irmãs Gêmeas. O valor da canção.</b></p>
 
