@@ -113,23 +113,23 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/JesterThirty4/ciconia-pt-br"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "discord.gg/4S2cmY3"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/JesterThirty4"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/JesterThirty4/ciconia-pt-br"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
