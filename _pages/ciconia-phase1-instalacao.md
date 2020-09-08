@@ -15,7 +15,7 @@ excerpt: >
 
 <p align=center><b>Como instalar o patch</b></p>
 
-**1** Para instalar o patch, antes de tudo você precisa ter instalado Ciconia When They Cry em seu computador. Você pode adquirir Ciconia na [Steam](https://store.steampowered.com/app/1162560/_phase1/) ou na [MangaGamer](https://www.mangagamer.com/detail.php?goods_type=1&product_code=1145). Meu patch também funciona com a [DEMO](https://www.07th-expansion.net/cico/cicoxN2qT.zip) de 14 capítulos lançada recentemente; uma ótima maneira de analisar a obra para decidir se vale a pena comprar o produto oficial.
+**1** Para instalar o patch, antes de tudo você precisa ter instalado Ciconia When They Cry em seu computador. Você pode adquirir Ciconia na [Steam](https://store.steampowered.com/app/1162560/_phase1/) ou na [MangaGamer](https://www.mangagamer.com/detail.php?goods_type=1&product_code=1145). Meu patch também funciona com a [DEMO](https://www.07th-expansion.net/cico/) de 14 capítulos lançada recentemente; uma ótima maneira de analisar a obra para decidir se vale a pena comprar o produto oficial.
 
 **2** Após adquirir o jogo, baixe a versão mais recente do meu patch tradução clicando no botão abaixo (link direto).
 
