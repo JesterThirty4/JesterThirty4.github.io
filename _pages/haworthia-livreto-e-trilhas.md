@@ -7,12 +7,12 @@ header:
   image_description: "Haworthia"
   actions:
     - label: "Leia o livreto aqui!"
-      url: "assets/pdfs/haworthia-livreto.pdf"
+      url: "assets/pdfs/haworthia-livreto/"
 excerpt: >
   Haworthia, coleção de dramas e trilhas sonoras do novo **Quando Elas Choram**.<br/>
 ---
 
- <p align=center><b>Trilhas Sonoras abaixo! É recomendado ler o <a href="assets/pdfs/haworthia-livreto.pdf" >livreto</a> primeiro.
+ <p align=center><b>Trilhas Sonoras abaixo! É recomendado ler o <a href="assets/pdfs/haworthia-livreto/" >livreto</a> primeiro.
 <p align=center><b>Ou acesse a playlist diretamente no youtube, clicando <a href="https://www.youtube.com/watch?v=dYvXibl7I58&list=PLC2tE52b3x7FPZ0DZ0POn3rTvH9lVu1_-">aqui</a>.</b></p>
 
 <p align=center><b>Trilha 1: Autômatas Orgânicas</b></p>
