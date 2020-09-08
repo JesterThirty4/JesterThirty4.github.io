@@ -26,3 +26,5 @@ excerpt: >
 **4** Por fim, entre na pasta Ciconia PT_BR e execute o jogo com o CiconiaPhase1.exe que se encontra lá dentro. Não use o .exe fora da pasta Ciconia PT_BR, pois ele iniciará o jogo em inglês. Se quiser, crie um atalho na sua área de trabalho.
 
 **5** Prontinho! Basta selecionar Português no inicio do jogo e ter uma boa leitura!
+
+Procurando as obras que precederam Ciconia? Dê uma olhada em: [Quando as Cigarras Choram (Higurashi Eternal)](https://higurashieternal.wordpress.com/) e [Quando as Gaivotas Choram (Knox Translations)](https://knox.fansub.com.br/)
