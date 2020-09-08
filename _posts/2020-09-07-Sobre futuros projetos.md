@@ -5,4 +5,4 @@ Meu foco atual é apenas Ciconia, e a Phase 2 estava programada para sair esse a
 
 Tenho a esperança de recebermos notícias da Phase 2 durante esse mês ainda... Pois até eu estou morrendo de ansiedade.
 
-De qualquer modo, nos encontraremos novamente, quando as cegonhas chorarem.
+De qualquer modo, nos encontraremos novamente quando as cegonhas chorarem.
