@@ -10,7 +10,7 @@ main:
     url: /_pages/glossario/
     
 #nav bar
-glossario:
+docs:
   - title: Phase 1
     children:
       - title: "Prologo"
