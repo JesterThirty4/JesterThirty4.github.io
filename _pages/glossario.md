@@ -3,7 +3,7 @@ title: Glossário
 layout: default
 author_profile: false
 sidebar:
-  nav: "glossario"
+  nav: "docs"
 ---
 
 <p align=center><b>Bem vindo ao glossário!</b></p>
