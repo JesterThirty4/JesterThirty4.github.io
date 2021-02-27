@@ -6,6 +6,8 @@ main:
     url: /_pages/contato
   - title: "Blog e Atualizações"
     url: /_pages/blog/
+  - title: "Glossário"
+    url: /_pages/glossario/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
