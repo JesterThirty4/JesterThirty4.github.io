@@ -8,6 +8,19 @@ main:
     url: /_pages/blog/
   - title: "Glossário"
     url: /_pages/glossario/
+    
+#nav bar
+glossario:
+  - title: Phase 1
+    children:
+      - title: "Prologo"
+        url: /docs/quick-start-guide/
+      - title: "Cap. 1"
+        url: /docs/structure/
+      - title: "Cap. 2"
+        url: /docs/installation/
+      - title: "Cap. 3"
+        url: /docs/upgrading/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
