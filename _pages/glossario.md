@@ -7,7 +7,7 @@ docs:
   - title: Phase 1
     children:
       - title: "Prologo"
-        url: /docs/quick-start-guide/
+        url: /_pages/gprologo/
       - title: "Cap. 1"
         url: /docs/structure/
       - title: "Cap. 2"
