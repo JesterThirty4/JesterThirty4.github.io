@@ -1,6 +1,6 @@
 ---
 title: Glossário
-layout: default
+layout: single
 author_profile: false
 #nav bar
 docs:
