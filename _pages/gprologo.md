@@ -5,6 +5,4 @@ author_profile: false
 sidebar:
   nav: "docs"
 ---
-<body>
-  <p style="color:blue">Força G:
-</body>
+<p style="color:#82faaa">Força G: </p>
