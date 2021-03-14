@@ -6,5 +6,5 @@ sidebar:
   nav: "docs"
 ---
 
- <p style="color:A1FAB9;">Força G:</p>
- <p style="color:A1FAB9;">Anti-G:</p>
+ <p style="color:green;">Força G:</p>
+ <p style="color:green;">Anti-G:</p>
