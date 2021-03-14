@@ -1,5 +1,5 @@
 ---
-title: Prológo
+title: Prólogo
 layout: single
 author_profile: false
 sidebar:
