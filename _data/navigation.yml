@@ -15,7 +15,7 @@ docs:
     children:
       - title: "Prologo"
         url: /_pages/gprologo/
-      - title: "Cap. 1 - Festival do Estandarte de Batalhas"
+      - title: <details> <summary> "Cap. 1" </summary> "- Festival do Estandarte de Batalhas" </details>
         url: /_pages/gch1/
       - title: "Cap. 2 - A Chegada dos Atletas"
         url: /_pages/gch2/
