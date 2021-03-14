@@ -15,55 +15,55 @@ docs:
     children:
       - title: "Prologo"
         url: /_pages/gprologo/
-      - title: <details> <summary> "Cap. 1" </summary> "- Festival do Estandarte de Batalhas" </details>
+      - title: <details> <summary> Capítulo 1 </summary> Festival do Estandarte de Batalhas </details>
         url: /_pages/gch1/
-      - title: "Cap. 2 - A Chegada dos Atletas"
+      - title: <details> <summary> Capítulo 2 </summary> A Chegada dos Atletas </details>
         url: /_pages/gch2/
-      - title: "Cap. 3 - Banho Público Envolvente"
+      - title: <details> <summary> Capítulo 3 </summary> Banho Público Envolvente </details>
         url: /_pages/gch3/
-      - title: "Cap. 4 - Processadores Paralelos"
+      - title: <details> <summary> Capítulo 4 </summary> Processadores Paralelos </details>
         url: /_pages/gch4/
-      - title: "Cap. 5 - Vier Dreissig"
+      - title: <details> <summary> Capítulo 5 </summary> Vier Dreissig </details>
         url: /_pages/gch5/
-      - title: "Cap. 6 - Violação de Confusão de Identidade"
+      - title: <details> <summary> Capítulo 6 </summary> Violação de Confusão de Identidade </details>
         url: /_pages/gch6/
-      - title: "Cap. 7 - Os Três Reis"
+      - title: <details> <summary> Capítulo 7 </summary> Os Três Reis </details>
         url: /_pages/gch7/
-      - title: "Cap. 8 - A Terceira Aptidão"
+      - title: <details> <summary> Capítulo 8 </summary> A Terceira Aptidão </details>
         url: /_pages/gch8/
-      - title: "Cap. 9 - Festa de Monstros"
+      - title: <details> <summary> Capítulo 9 </summary> Festa de Monstros </details>
         url: /_pages/gch9/
-      - title: "Cap. 10 - Conflitos Globais Simultâneos"
+      - title: <details> <summary> Capítulo 10 </summary> Conflitos Globais Simultâneos </details>
         url: /_pages/gch10/
-      - title: "Cap. 11 - Os Guardiões da Paz"
+      - title: <details> <summary> Capítulo 11 </summary> Os Guardiões da Paz </details>
         url: /_pages/gch11/
-      - title: "Cap. 12 - Um Presente"
+      - title: <details> <summary> Capítulo 12 </summary> Um Presente </details>
         url: /_pages/gch12/
-      - title: "Cap. 13 - A Prova de um Programa"
+      - title: <details> <summary> Capítulo 13 </summary> A Prova de um Programa </details>
         url: /_pages/gch13/
-      - title: "Cap. 14 - O Valor e o Verdadeiro Peso da Paz"
+      - title: <details> <summary> Capítulo 14 </summary> O Valor e o Verdadeiro Peso da Paz </details>
         url: /_pages/gch14/
-      - title: "Cap. 15 - Formando uma Ordem da Cavalaria"
+      - title: <details> <summary> Capítulo 15 </summary> Formando uma Ordem da Cavalaria </details>
         url: /_pages/gch15/
-      - title: "Cap. 16 - Luxúria Pública Envolvente?"
+      - title: <details> <summary> Capítulo 16 </summary> Luxúria Pública Envolvente? </details>
         url: /_pages/gch16/
-      - title: "Cap. 17 - Não Morra, Não Mate"
+      - title: <details> <summary> Capítulo 17 </summary> Não Morra, Não Mate </details>
         url: /_pages/gch17/
-      - title: "Cap. 18 - O Cenário de Deus"
+      - title: <details> <summary> Capítulo 18 </summary> O Cenário de Deus </details>
         url: /_pages/gch18/
-      - title: "Cap. 19 - Armistício Global Simultâneo"
+      - title: <details> <summary> Capítulo 19 </summary> Armistício Global Simultâneo </details>
         url: /_pages/gch19/
-      - title: "Cap. 20 - Desastre Utopia"
+      - title: <details> <summary> Capítulo 20 </summary> Desastre Utopia </details>
         url: /_pages/gch20/
-      - title: "Cap. 21 - A Dignidade de Retornas às Cinzas"
+      - title: <details> <summary> Capítulo 21 </summary> A Dignidade de Retornas às Cinzas </details>
         url: /_pages/gch21/
-      - title: "Cap. 22 - O Segundo Armistício Global Simultâneo"
+      - title: <details> <summary> Capítulo 22 </summary> O Segundo Armistício Global Simultâneo </details>
         url: /_pages/gch22/
-      - title: "Cap. 23 - Revolta dos Drones"
+      - title: <details> <summary> Capítulo 23 </summary> Revolta dos Drones </details>
         url: /_pages/gch23/
-      - title: "Cap. 24 - Lanche Infantil de Desastres Naturais"
+      - title: <details> <summary> Capítulo 24 </summary> Lanche Infantil de Desastres Naturais </details>
         url: /_pages/gch24/
-      - title: "Cap. 25 - A Hora da Profecia"
+      - title: <details> <summary> Capítulo 25 </summary> A Hora da Profecia </details>
         url: /_pages/gch25/
       - title: "Fragmentos de Dados"
         url: /_pages/gf/
