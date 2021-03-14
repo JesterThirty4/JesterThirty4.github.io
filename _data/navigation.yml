@@ -14,13 +14,59 @@ docs:
   - title: Phase 1
     children:
       - title: "Prologo"
-        url: /docs/quick-start-guide/
-      - title: "Cap. 1"
-        url: /docs/structure/
-      - title: "Cap. 2"
-        url: /docs/installation/
-      - title: "Cap. 3"
-        url: /docs/upgrading/
+        url: /_pages/gprologo/
+      - title: "Cap. 1 - Festival do Estandarte de Batalhas"
+        url: /_pages/gch1/
+      - title: "Cap. 2 - A Chegada dos Atletas"
+        url: /_pages/gch2/
+      - title: "Cap. 3 - Banho Público Envolvente"
+        url: /_pages/gch3/
+      - title: "Cap. 4 - Processadores Paralelos"
+        url: /_pages/gch4/
+      - title: "Cap. 5 - Vier Dreissig"
+        url: /_pages/gch5/
+      - title: "Cap. 6 - Violação de Confusão de Identidade"
+        url: /_pages/gch6/
+      - title: "Cap. 7 - Os Três Reis"
+        url: /_pages/gch7/
+      - title: "Cap. 8 - A Terceira Aptidão"
+        url: /_pages/gch8/
+      - title: "Cap. 9 - Festa de Monstros"
+        url: /_pages/gch9/
+      - title: "Cap. 10 - Conflitos Globais Simultâneos"
+        url: /_pages/gch10/
+      - title: "Cap. 11 - Os Guardiões da Paz"
+        url: /_pages/gch11/
+      - title: "Cap. 12 - Um Presente"
+        url: /_pages/gch12/
+      - title: "Cap. 13 - A Prova de um Programa"
+        url: /_pages/gch13/
+      - title: "Cap. 14 - O Valor e o Verdadeiro Peso da Paz"
+        url: /_pages/gch14/
+      - title: "Cap. 15 - Formando uma Ordem da Cavalaria"
+        url: /_pages/gch15/
+      - title: "Cap. 16 - Luxúria Pública Envolvente?"
+        url: /_pages/gch16/
+      - title: "Cap. 17 - Não Morra, Não Mate"
+        url: /_pages/gch17/
+      - title: "Cap. 18 - O Cenário de Deus"
+        url: /_pages/gch18/
+      - title: "Cap. 19 - Armistício Global Simultâneo"
+        url: /_pages/gch19/
+      - title: "Cap. 20 - Desastre Utopia"
+        url: /_pages/gch20/
+      - title: "Cap. 21 - A Dignidade de Retornas às Cinzas"
+        url: /_pages/gch21/
+      - title: "Cap. 22 - O Segundo Armistício Global Simultâneo"
+        url: /_pages/gch22/
+      - title: "Cap. 23 - Revolta dos Drones"
+        url: /_pages/gch23/
+      - title: "Cap. 24 - Lanche Infantil de Desastres Naturais"
+        url: /_pages/gch24/
+      - title: "Cap. 25 - A Hora da Profecia"
+        url: /_pages/gch25/
+      - title: "Fragmentos de Dados"
+        url: /_pages/gf/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
