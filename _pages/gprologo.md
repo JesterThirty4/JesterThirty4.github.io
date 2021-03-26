@@ -5,6 +5,9 @@ author_profile: false
 sidebar:
   nav: "docs"
 ---
+
+<p style="color:#82faaa">Cavaleiros da Manopla:</p> São chamados de Gauntlet Knights (em inglês) no script japonês.
+
 <p style="color:#82faaa">Força G:</p> Aceleração relativa à gravidade da Terra.
 
 <p style="color:#82faaa">Anti-G:</p> Anti-gravidade.
