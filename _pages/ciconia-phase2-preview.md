@@ -11,7 +11,12 @@ excerpt: >
 ---
 **(Tradução em progresso)**
 
-<Obrigado por esperar. O Agente de Serviços chegou, poyo!>
+.p1 {
+  font-family: "Gen Shin Gothic";
+  src: url('/assets/font/Gen Shin Gothic.rtf') format('truetype');
+  <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
+}
+
 
 Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>.
 
