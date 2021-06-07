@@ -79,9 +79,9 @@ Durante a Terceira Guerra Mundial, os países se enfrentaram com armas de destru
 
 E assim começou a competição pela reconstrução na era A3W. A humanidade, após quase se destruir, desenvolveu super tecnologias uma após a outra e se recuperou com uma velocidade avassaladora. E os países que evitaram a maioria do dano, aqueles que mais tarde formariam a LATO, tinham a liderança nessa competição.
   
-  A recém-desenvolvida tecnologia de Impressora 4D podia fazer de tudo, de nivelamento até construção, em uma velocidade que fugia completamente do senso comum. Como resultado, áreas rurais que tinham sido ignoradas no passado foram desenvolvidas rapidamente.
+A recém-desenvolvida tecnologia de Impressora 4D podia fazer de tudo, de nivelamento até construção, em uma velocidade que fugia completamente do senso comum. Como resultado, áreas rurais que tinham sido ignoradas no passado foram desenvolvidas rapidamente.
 
-O Brasil e outros países na região queriam se adiantar e desenvolver a Mata Atlântica. Mas então, a "Unidade de Proteção Ambiental" de países Norte Americanos e Europeus que estavam ficando para trás na competição levantaram uma objeção. Reivindicaram que devido as muitas espécies de animais, plantas e o efeito no ambiente mundial, desenvolver a Amazonia seria um grande pecado contra o planeta como todo.
+O Brasil e outros países na região queriam se adiantar e desenvolver a Mata Atlântica. Mas então, a "Unidade de Proteção Ambiental" de países Norte Americanos e Europeus que estavam ficando para trás na competição levantaram uma objeção. Reivindicaram que devido as muitas espécies de animais, plantas e o efeito no ambiente mundial, desenvolver a Amazônia seria um grande pecado contra o planeta como todo.
 
 Ao mesmo tempo, as antigas potências da era B3W ignoraram completamente seus próprios ambientes e se empenharam em um desenvolvimento desenfreado em nome da recuperação. Como resultado, a opinião pública em países sul-americanos ferveram em oposição.
   
@@ -112,7 +112,7 @@ Agente de Serviços: Correto. A maioria pensa que a água nos oceanos, riachos, 
 
 Toujirou: ...Então seu vírus, o Green Reaper, remove a ilusão, e emite a ordem para matar todo o verde, limpa a Amazônia, e mostra ao mundo o quão forte a LATO é... estou certo?
   
-  Agente de Serviços: Ahahaha, incrível, né? A natureza não significa nada hoje em dia! A única razão das pessoas pensarem o contrário é porque o 8MS o fazem pensar que significa! A Amazônia é inútil! Quem dá a mínima para plantas e animais raros, enquanto tivermos o 8MS não precisaremos de mais nada, ahahahahaha!
+Agente de Serviços: Ahahaha, incrível, né? A natureza não significa nada hoje em dia! A única razão das pessoas pensarem o contrário é porque o 8MS o fazem pensar que significa! A Amazônia é inútil! Quem dá a mínima para plantas e animais raros, enquanto tivermos o 8MS não precisaremos de mais nada, ahahahahaha!
 
 Mas é claro, até mesmo um gênio como eu não pode chegar ao núcleo do 8MS ou ao Transmissor 8MS. Só a cor! Esse tipo de pegadinha é algo que sou capaz de fazer!
 
@@ -144,7 +144,7 @@ Toujirou: Como são ativados?
 
 Agente de Serviços: Infectei o sinal de erro do 8MS. Se eu mandar ao 8MS o sinal para começar um teste de erro, os oceanos, lagos e tudo ficará vermelho como sangue!
 
-Os sinais de erro do 8MS de purificação de água são brancos para alerta e amarelo para perigo. Se houvesse um erro, a água ficaria branco, e depois brilharia em amarelo. No início, os desenvolvedores planejaram configurar como amarelo para alerta e vermelho para perigo. No entanto, as pessoas acharam que pintar os oceanos de vermelho seria muito perturbador, então ele foi configurado para branco e depois amarelo brilhante. Mas graças ao Red Dye, tudo ficaria com uma cor bem mais inquietante...
+Os sinais de erro do 8MS de purificação de água são brancos turvo para alerta e amarelo para perigo. Se houvesse um erro, a água ficaria branca, e depois brilharia em amarelo. No início, os desenvolvedores planejaram configurar como amarelo para alerta e vermelho para perigo. No entanto, as pessoas acharam que pintar os oceanos de vermelho seria muito perturbador, então ele foi configurado para branco turvo e depois amarelo brilhante. Mas graças ao Red Dye, tudo ficaria com uma cor bem mais inquietante...
 
 Apesar de ser um vírus pegadinha que mudaria a cor para vermelho, sua construção foi muito complicada e requeria um grande nível de habilidade. Programadores e Hackers sempre colocavam muito esforço em suas pegadinhas e easter eggs......
 
@@ -204,7 +204,7 @@ Toujirou: Não precisa. ...Eles estão deixando ele viver, afinal.
 
 Toujirou: ..................
 
-....É como Vossa Excelência a Grã-Mestre diz, e esse foi apenas um capricho deles?
+....É como Grã-mestre diz, e esse foi apenas um capricho deles?
 
 Um jogo unilateral seria muito entediante, então eles deixaram essa abertura para nós intencionalmente?
 
