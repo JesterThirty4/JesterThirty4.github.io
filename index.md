@@ -6,11 +6,17 @@ header:
 
 feature_row:
   - image_path: /assets/images/ciconia-translation-btn.jpg
-    title: "Ciconia Phase 1"
+    title: "Ciconia - Phase 1"
     excerpt: "Phase 1 de Quando as Cegonhas Choram, totalmente traduzida para PT-BR!"
     url: "/_pages/ciconia-phase1-instalacao/"
     btn_class: "btn--primary"
     btn_label: "Instale o patch aqui!"
+  - image_path: /assets/images/ciconia-phase2-preview-btn.jpg
+    title: "Ciconia - Phase 2"
+    excerpt: "Phase 2 de Quando as Cegonhas Choram, preview lançada!"
+    url: "/_pages/ciconia-phase2-preview/"
+    btn_class: "btn--primary"
+    btn_label: "Leia a preview aqui!"
   - image_path: /assets/images/haworthia-translation-btn.jpg
     title: "Haworthia"
     excerpt: "O protótipo de Ciconia, Haworthia! Livreto e trilhas sonoras totalmente traduzidas."
