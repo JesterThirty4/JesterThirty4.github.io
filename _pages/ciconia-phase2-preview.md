@@ -10,4 +10,4 @@ excerpt: >
   A segunda parte da quinta obra da série **Quando Elas Choram**.<br />
 ---
 
-*Página em contrução*
+*Página em construção*
