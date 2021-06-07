@@ -3,7 +3,7 @@ title: Quando as Cegonhas Choram
 layout: splash
 author_profile: false 
 header: 
-  overlay_image: /assets/images/ciconia-page2preview-overlay.jpg
+  overlay_image: /assets/images/ciconia-page2preview-overlay.png
   overlay_filter: 0.3
   image_description: "Ciconia - Phase 2"
 excerpt: >
