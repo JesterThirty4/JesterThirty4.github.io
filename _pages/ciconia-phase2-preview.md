@@ -45,7 +45,7 @@ Toujirou: Ah, obrigado. Aqui...esses são os conteúdos de sua pasta privada, co
 
 Agente de Serviços: Eh... a...ah...
 
-Toujirou: Minhas desculpas por dizer isso para alguém que se chama de hacker genial, mas não importa o quão alto chegue, sempre haverá um peixe maior no oceano. Em meros momentos após você acessar este local, nós acessamos sua pasta pessoal.
+Toujirou: Minhas desculpas por dizer isso para alguém que se chama de hacker genial, mas não importa o quão alto chegue, sempre haverá um peixe maior. Em meros momentos após você acessar este local, nós acessamos sua pasta pessoal.
 
 Agente de Serviços: Ah..., mas quem diabos...
 
