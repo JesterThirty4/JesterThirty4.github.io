@@ -15,7 +15,7 @@ A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes
 
 <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
 
-Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>.
+Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>
 
 O avatar de um empregado conhecido como gerente chegou.
 
