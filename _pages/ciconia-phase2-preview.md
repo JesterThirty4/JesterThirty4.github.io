@@ -45,11 +45,11 @@ Toujirou: Ah, obrigado. Aqui...esses são os conteúdos de sua pasta privada, co
 
 Agente de Serviços: Eh... a...ah...
 
-Toujirou: Minhas desculpas por dizer isso para alguém que se chama de hacker genial, mas não importa o quão alto chegue, sempre haverá um peixe maior. Em meros momentos após você acessar este local, nós acessamos sua pasta pessoal.
+Toujirou: Minhas desculpas por dizer isso para alguém que diz ser um hacker genial, mas não importa o quão alto chegue, sempre haverá um peixe maior. Em meros momentos após você acessar este local, nós acessamos sua pasta pessoal.
 
 Agente de Serviços: Ah..., mas quem diabos...
 
-Toujirou: Relaxa, não sou policial. Mas se você não for honesto comigo, pode apostar que seria centenas de vezes melhor para você que eu fosse um.
+Toujirou: Relaxa, não sou policial. Mas se você não for honesto comigo, pode apostar que seria centenas de vezes melhor para você se eu fosse um.
 
 Agente de Serviços: Esse vírus de computador que está circulando recentemente. Red Dye. Ele é seu, não é?
 
@@ -57,7 +57,7 @@ Qualquer máquina infectada teria toda a informação RGB acessível alterada pa
 
 Apenas o R permaneceria. Portanto, qualquer máquina infectada apenas seria capaz de mostrar a cor vermelha. É conhecido como "Red Dye (Tinta Vermelha)" por esse motivo, mas como mata todas as imagens ao torná-las totalmente vermelhas, também é conhecido como "Red Die" (Morte Vermelha)." Por não ter outros efeitos negativos, foi classificado como vírus pegadinha, mas é mesmo extremamente irritante e sujeito a te deixar puto.
 
-Toujirou: Seja honesto comigo. Ou talvez você não se abra até que eu libere essas imagens que você tem, que cuja própria possessão é ilegal?
+Toujirou: Seja honesto comigo. Ou talvez você não se abra até que eu libere essas imagens que você tem, cuja própria possessão é ilegal?
 
 Enquanto Toujirou alinhava as imagens com prévias de cor de pele, o homem se tocou e admitiu ser o Green Reaper.
 
