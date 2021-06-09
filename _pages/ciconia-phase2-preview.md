@@ -1,5 +1,5 @@
 ---
-title: Quando as Cegonhas Choram
+title: Quando as Cegonhas Choram Phase 2
 layout: splash
 author_profile: false 
 header: 
@@ -16,7 +16,7 @@ A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes
 
 <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
 
-Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>.
+Agente de Serviços: Desculpe por deixá-lo esperando, <s enhor>.
 
 O avatar de um empregado conhecido como gerente chegou.
 
@@ -166,17 +166,17 @@ Agente de Serviços: Hehe! Esse é meu ganhapão, não é da sua conta. Só dê 
 
 Toujirou: A pessoa que te fez matar B... Bem, suponho que não deixaram nenhuma abertura, mas conseguiu captar qualquer dica quanto a sua verdadeira identidade?
 
-Agente de Serviços: Ele usou um sapo merdão de avatar, e a conversa inteira não revelou absolutamente nenhuma indicação de sua nacionalidade, sexo ou qualquer outra característica.
+Agente de Serviços: Ele usou um sapo merdão de avatar, e a conversa inteira não revelou absolutamente nenhum vestígio de sua nacionalidade, sexo ou qualquer outra característica.
 
 Toujirou: Imaginei.
 
-Agente de Serviços: Mas sabe, amigo. Se você me dar uma pequena gorgeta, este seu hacker genial aqui te dará algo que só ele seria capaz de perceber.
+Agente de Serviços: Mas sabe, amigo. Se você me dar uma pequena gorgeta, este seu hacker genial aqui te contará algo que só ele seria capaz de perceber.
 
-Toujirou: Te darei o suficiente para um café. Mas se for verdadeiro, farei com que seja o suficiente para um Especial de Cinco Estrelas. O que você notou, Senhor Hacker Genial?
+Toujirou: Te darei o suficiente para um café. Mas se for verdadeiro, farei com que seja o suficiente para um Especial de Cinco Estrelas. O que você notou, Sr. Hacker Genial?
 
 Agente de Serviços: O motivo por eu estar sendo honesto com você agora é porque aquela pessoa era várias vezes melhor do que sou, e você tem o mesmo cheiro que ela. Soube de cara que não deveria te irritar, então abri o bico de cara.
 
-Toujirou: Então... quando aquela pessoa te contou que sabia que você era o Green Reaper, então seria melhor você concordar com os termos dele, você não aceitou de cara?
+Toujirou: Então... quando aquela pessoa te contou que sabia que você era o Green Reaper, por isso era melhor você concordar com os termos dele, você não aceitou de cara?
   
 Agente de Serviços: Isso aí. Assim como você roubou todas as minhas senhas no pequeno período de tempo em que acessei você, tentei atacar ele diretamente por meio de seu Selcom.
 
@@ -194,7 +194,7 @@ Se ela for um Cavaleiro da Manopla, seja um soldado ou com a força policial, é
 
 Agente de Serviços: Foi nesse momento que desisti. E aquela pessoa não ia me prender, mas me deixou livre e ainda me deu dinheiro. Não tinha motivos para me opor a ela. É tudo que tenho a dizer.
 
-Toujirou: Tenha um bom trago na melhor das cafeterias. Porém, pegue leve com suas pegadinhas, combinado? Não há garantias de que a próxima pessoa que aparecer, te pedindo para matar o R também, será tão gentil.
+Toujirou: Tenha um bom trago no melhor dos intervalos para o café. Porém, pegue leve com suas pegadinhas, combinado? Não há garantias de que a próxima pessoa que aparecer, te pedindo para matar o R também, será tão gentil.
 
 Agente de Serviços: Obrigado pelo aviso. Muito bem, caro cliente. Se estiver satisfeito com o serviço que nossa empresa te providenciou, por favor envie uma avaliação ao atendimento de cliente.
 
