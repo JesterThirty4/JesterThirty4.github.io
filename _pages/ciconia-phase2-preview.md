@@ -11,11 +11,11 @@ excerpt: >
 ---
 **(Tradução em progresso)**
 
-A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes: https://booth.pm/en/items/3017610
+A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes: (https://booth.pm/en/items/3017610)
 
 <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
 
-Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>
+Agente de Serviços: Desculpe por deixá-lo esperando, **senhor***.
 
 O avatar de um empregado conhecido como gerente chegou.
 
@@ -212,3 +212,5 @@ Toujirou: ..................
 Um jogo unilateral seria muito entediante, então eles deixaram essa abertura para nós intencionalmente?
 
 Toujirou: Ou será que...estão apenas carentes de atenção...então estão mostrando essas aberturas...como uma garota pré-adolescente? 
+
+*senhor é dito em português.
