@@ -12,7 +12,6 @@ excerpt: >
 **(Tradução em progresso)**
 
 A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes. (https://booth.pm/en/items/3017610)
----
 
 <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
 
