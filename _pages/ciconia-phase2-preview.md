@@ -11,6 +11,9 @@ excerpt: >
 ---
 **(Tradução em progresso)**
 
+A prévia foi revelada gratuitamente no booth do Remotaro, junta de outras artes. (https://booth.pm/en/items/3017610)
+---
+
 <Obrigado por esperar. O Agente de Serviços chegou, poyo!>
 
 Agente de Serviços: Desculpe por deixá-lo esperando, <senhor>.
@@ -49,7 +52,7 @@ Toujirou: Minhas desculpas por dizer isso para alguém que diz ser um hacker gen
 
 Agente de Serviços: Ah..., mas quem diabos...
 
-Toujirou: Relaxa, não sou policial. Mas se você não for honesto comigo, pode apostar que seria centenas de vezes melhor para você se eu fosse um.
+Toujirou: Relaxa, não sou policial. Mas caso não seja honesto comigo, pode apostar que seria centenas de vezes melhor para você se eu fosse um.
 
 Agente de Serviços: Esse vírus de computador que está circulando recentemente. Red Dye. Ele é seu, não é?
 
@@ -59,7 +62,7 @@ Apenas o R permaneceria. Portanto, qualquer máquina infectada apenas seria capa
 
 Toujirou: Seja honesto comigo. Ou talvez você não se abra até que eu libere essas imagens que você tem, cuja própria possessão é ilegal?
 
-Enquanto Toujirou alinhava as imagens com prévias de cor de pele, o homem se tocou e admitiu ser o Green Reaper.
+Enquanto Toujirou alinhava as imagens com prévias de cor de pele, o homem explodiu de raiva, e admitiu ser o Green Reaper.
 
 Agente de Serviços: É, sou eu. Fui eu. Tá satisfeito agora, porra? Ou vai dizer que meu dialeto foi impróprio ou alguma outra merda e enviar uma reclamação pra central de atendimento?
 
@@ -77,13 +80,13 @@ Toujirou: Você é o Green Reaper, não é? Você está incentivando o desenvolv
 
 Durante a Terceira Guerra Mundial, os países se enfrentaram com armas de destruição em massa e se destruíram completamente. No entanto, o continente de América do Sul foi abençoado por ser capaz de evitar a maioria do dano.
 
-E assim começou a competição pela reconstrução na era A3W. A humanidade, após quase se destruir, desenvolveu super tecnologias uma após a outra e se recuperou com uma velocidade avassaladora. E os países que evitaram a maioria do dano, aqueles que mais tarde formariam a LATO, tinham a liderança nessa competição.
+E assim começou a competição pela reconstrução na era A3W. A humanidade, após quase se destruir, começou a desenvolver super tecnologias uma após a outra e se recuperou com uma velocidade avassaladora. E os países que evitaram a maioria do dano, aqueles que mais tarde formariam a LATO, tinham a liderança nessa competição.
   
 A recém-desenvolvida tecnologia de Impressora 4D podia fazer de tudo, de nivelamento até construção, em uma velocidade que fugia completamente do senso comum. Como resultado, áreas rurais que tinham sido ignoradas no passado foram desenvolvidas rapidamente.
 
-O Brasil e outros países na região queriam se adiantar e desenvolver a Mata Atlântica. Mas então, a "Unidade de Proteção Ambiental" de países Norte Americanos e Europeus que estavam ficando para trás na competição levantaram uma objeção. Reivindicaram que devido as muitas espécies de animais, plantas e o efeito no ambiente mundial, desenvolver a Amazônia seria um grande pecado contra o planeta como todo.
+O Brasil e outros países na região queriam se adiantar e desenvolver a Mata Atlântica. Mas então, a "Unidade de Proteção Ambiental" de países Norte-americanos e Europeus que estavam ficando para trás na competição levantaram uma objeção. Reivindicaram que devido as muitas espécies de animais, plantas e o efeito no ambiente mundial, desenvolver a Amazônia seria um grande pecado contra o planeta como todo.
 
-Ao mesmo tempo, as antigas potências da era B3W ignoraram completamente seus próprios ambientes e se empenharam em um desenvolvimento desenfreado em nome da recuperação. Como resultado, a opinião pública em países sul-americanos ferveram em oposição.
+Ao mesmo tempo, as antigas potências da era B3W ignoraram completamente seus próprios ambientes e se empenharam em um desenvolvimento desenfreado em nome da recuperação. Como resultado, a opinião pública em países sul-americanos ferveu em oposição.
   
   
 Eventualmente, os escarços e vastos Campos Espirituais foram descobertos, a LATO foi formada, e as forças opositoras não podiam mais se opor. Mesmo assim, muitos cidadãos da América do Sul continuaram a guardar ressentimento por serem impedidos de desenvolver a Amazônia.
@@ -104,7 +107,7 @@ Toujirou: Do que está falando?
 
 Agente de Serviços: Vou explicar direito. Como você está pensando, o vírus que criei originalmente apenas zerava o G. "O Green Reaper, aquele que mata o verde, chegou," saca?
 
-Onde o vírus será enviado? Não é óbvio? O local aonde teria o maior impacto, onde fosse visto pela maioria das pessoas. Obtive sucesso em conseguir a senha de um engenheiro de 8MS. Meu alvo era um dos maiores produtos de nossa empresa, o 8MS de Purificação de Água!
+Onde o vírus será enviado? Não é óbvio? Ao local aonde teria o maior impacto, onde fosse visto pela maioria das pessoas. Obtive sucesso em conseguir a senha de um engenheiro de 8MS. Meu alvo era um dos maiores produtos de nossa empresa, o 8MS de Purificação de Água!
 
 Toujirou: O 8MS de Purificação de Água não apenas a limpa, mas também controla sua cor, correto?
 
@@ -152,14 +155,14 @@ Toujirou: Você providenciou uma cópia de Red Dye para a pessoa que te pagou?
 
 Agente de Serviços: Ele disse que seu desejo era pintar todos os oceanos do mundo de vermelho. Abusando de minha posição na empresa, sou capaz de pintar os oceanos da LATO, mas não tem nada que posso fazer com os outros. Talvez ele tenha outra maneira? Tanto faz, não ligo.
 
-Toujirou: ...Francamente, que hacker irresponsável você é. O que fará se houverem efeitos colaterais no 8MS, e o mundo inteiro virar cereal de milho ou algo do tipo?
+Toujirou: ...Caramba, que hacker irresponsável você é. O que fará se houverem efeitos colaterais no 8MS, e o mundo inteiro virar cereal de milho ou algo do tipo?
 
 
 Agente de Serviços: Hahahaha! Eu não ligaria! Mas prefiro cereal de chocolate! Não fique bravo, ok? Tô te contanto a verdade nua e crua assim como você pediu, beleza?
 
 Toujirou: Verdade. Então manterei minha promessa. Mas tente pegar leve com suas pegadinhas, combinado?
 
-Agente de Serviços: Hoho! Fique pra você. Esse é meu ganhapão. Se manda!
+Agente de Serviços: Hehe! Esse é meu ganhapão, não é da sua conta. Só dê o fora!
 
 Toujirou: A pessoa que te fez matar B... Bem, suponho que não deixaram nenhuma abertura, mas conseguiu captar qualquer dica quanto a sua verdadeira identidade?
 
