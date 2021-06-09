@@ -53,7 +53,7 @@ Toujirou: Relaxa, não sou policial. Mas se você não for honesto comigo, pode 
 
 Agente de Serviços: Esse vírus de computador que está circulando recentemente. Red Dye. Ele é seu, não é?
 
-Qualquer máquina infectada teria toda a informação RGB acessível alterada para que zerasse os valores de G e B.
+Qualquer máquina infectada pelo vírus teria toda a informação RGB acessível alterada para que zerasse os valores de G e B.
 
 Apenas o R permaneceria. Portanto, qualquer máquina infectada apenas seria capaz de mostrar a cor vermelha. É conhecido como "Red Dye (Tinta Vermelha)" por esse motivo, mas como mata todas as imagens ao torná-las totalmente vermelhas, também é conhecido como "Red Die" (Morte Vermelha)." Por não ter outros efeitos negativos, foi classificado como vírus pegadinha, mas é mesmo extremamente irritante e sujeito a te deixar puto.
 
@@ -88,9 +88,9 @@ Ao mesmo tempo, as antigas potências da era B3W ignoraram completamente seus pr
   
 Eventualmente, os escarços e vastos Campos Espirituais foram descobertos, a LATO foi formada, e as forças opositoras não podiam mais se opor. Mesmo assim, muitos cidadãos da América do Sul continuaram a guardar ressentimento por serem impedidos de desenvolver a Amazônia.
 
-No fim, graças ao vasto lucro vindo do Spiritium, não havia motivo para focar no desenvolvimento da Amazônia, e a LATO reinou no topo do mundo. Como concessão por emergir vitoriosa, a LATO anunciou que abandonaria o desenvolvimento da Amazônia e que seria preservada como reserva natural para uso de toda humanidade.
+No fim, graças ao vasto lucro vindo do Spiritium, não havia motivo para focar no desenvolvimento da Amazônia, e a LATO reinou no topo do mundo. Como concessão por emergir vitoriosa, a LATO anunciou que abandonaria o desenvolvimento da Amazônia, e que ela seria preservada como reserva natural para uso de toda humanidade.
 
-...Mas muitos jovens na LATO acreditavam que a nação se rendeu as antigas super potências da B3W, os lisonjeando e agindo como covardes. Para que a LATO permanecesse no topo do mundo para sempre. E para enviar uma mensagem de que a LATO nunca mais seria conquistada pelas antigas super potências da B3W. Eles, de maneira agressiva e imprudente, mantiveram a posição de que a vasta terra da Amazônia deveria ser desenvolvida imediatamente, e que os únicos que queriam que ela fosse preservada eram os estudiosos comprados pelas velhas super potências.
+...Mas muitos jovens na LATO acreditavam que a nação se rendeu as antigas super potências da B3W, os lisonjeando e agindo como covardes. Para que a LATO permanecesse no topo do mundo para sempre. E para enviar uma mensagem de que a LATO nunca mais seria conquistada pelas antigas super potências da B3W. Os jovens, de maneira agressiva e imprudente, mantiveram a posição de que a vasta terra da Amazônia deveria ser desenvolvida imediatamente, e que os únicos que queriam que ela fosse preservada eram os estudiosos comprados pelas velhas super potências.
 
 O Green Reaper era um dos que demandavam o seu desenvolvimento imediatamente.
 
@@ -108,11 +108,11 @@ Onde o vírus será enviado? Não é óbvio? O local aonde teria o maior impacto
 
 Toujirou: O 8MS de Purificação de Água não apenas a limpa, mas também controla sua cor, correto?
 
-Agente de Serviços: Correto. A maioria pensa que a água nos oceanos, riachos, piscinas e nos reservatórios é azul, verde, ou transparente. Mas é tudo falso! Ela é de qualquer cor que configuramos o 8MS para ser!
+Agente de Serviços: Correto. A maioria pensa que a água nos oceanos, riachos, piscinas e nos reservatórios é azul, verde, ou transparente. Mas é tudo falso! Ela é de qualquer cor que configurarmos o 8MS para mostrar!
 
 Toujirou: ...Então seu vírus, o Green Reaper, remove a ilusão, e emite a ordem para matar todo o verde, limpa a Amazônia, e mostra ao mundo o quão forte a LATO é... estou certo?
   
-Agente de Serviços: Ahahaha, incrível, né? A natureza não significa nada hoje em dia! A única razão das pessoas pensarem o contrário é porque o 8MS o fazem pensar que significa! A Amazônia é inútil! Quem dá a mínima para plantas e animais raros, enquanto tivermos o 8MS não precisaremos de mais nada, ahahahahaha!
+Agente de Serviços: Ahahaha, incrível, né? A natureza não significa nada hoje em dia! A única razão das pessoas pensarem o contrário é porque o 8MS os fazem pensar que significa! A Amazônia é inútil! Quem dá a mínima para plantas e animais raros, enquanto tivermos o 8MS não precisaremos de mais nada, ahahahahaha!
 
 Mas é claro, até mesmo um gênio como eu não pode chegar ao núcleo do 8MS ou ao Transmissor 8MS. Só a cor! Esse tipo de pegadinha é algo que sou capaz de fazer!
 
@@ -120,7 +120,7 @@ Então, quando estava prestes a liberar meu Green Reaper, um convidado inesperad
 
 Toujirou: O que quis dizer com experimentar?
 
-Agente de Serviços: Eles me disseram isso: Assim como você quer matar o verde, quero matar o azul! Não suporto o azul falso dos oceanos criado pelo 8MS!
+Agente de Serviços: Ele me disse isso: Assim como você quer matar o verde, quero matar o azul! Não suporto o azul falso dos oceanos criado pelo 8MS!
 
 Toujirou: Um ativista Anti-8MS?
 
@@ -136,17 +136,17 @@ Toujirou: O 8MS infectado com o Red Dye já foi implantado?
 
 Agente de Serviços: Sim! A atualização já foi e está espalhada por todos os oceanos sul-americanos, lagos, e reservatórios de água! Porém, parece que o cara de quem roubei a senha foi identificado pela IA por acesso impróprio e transferido. Então é o fim da minha pegadinha.
 
-Os efeitos do 8MS não são para sempre. Assim como células são substituídas com o tempo, os velhos 8MS morrem e são substituídos por novos. O 8MS que infectei será substituído após um ano e caíra no oceano. 
+Os efeitos do 8MS não são para sempre. Assim como células são substituídas com o tempo, os velhos 8MS morrem e são substituídos por novos. O 8MS que infectei será substituído após um ano e cairá no oceano. 
 
-Agente de Serviços: Então antes que isso aconteça, vou criar o inferno pelo menos uma vez! Estou pensando em fazê-lo durante o aniversário da fundação da LATO.
+Agente de Serviços: Então antes que isso aconteça, vou infernizar tudo pelo menos uma vez! Estou pensando em fazê-lo durante o aniversário da fundação da LATO.
 
 Toujirou: Como são ativados?
 
-Agente de Serviços: Infectei o sinal de erro do 8MS. Se eu mandar ao 8MS o sinal para começar um teste de erro, os oceanos, lagos e tudo ficará vermelho como sangue!
+Agente de Serviços: Infectei o sinal de erro do 8MS. Se eu emitir ao 8MS o sinal para começar um teste de erro, os oceanos, lagos e tudo ficará vermelho como sangue!
 
-Os sinais de erro do 8MS de purificação de água são brancos turvo para alerta e amarelo para perigo. Se houvesse um erro, a água ficaria branca, e depois brilharia em amarelo. No início, os desenvolvedores planejaram configurar como amarelo para alerta e vermelho para perigo. No entanto, as pessoas acharam que pintar os oceanos de vermelho seria muito perturbador, então ele foi configurado para branco turvo e depois amarelo brilhante. Mas graças ao Red Dye, tudo ficaria com uma cor bem mais inquietante...
+Os sinais de erro do 8MS de purificação de água são brancos turvo para alerta e amarelo brilhante para perigo. Se houvesse um erro, a água ficaria branca, e depois brilharia em amarelo. No início, os desenvolvedores planejaram configurar como amarelo para alerta e vermelho para perigo. No entanto, as pessoas acharam que pintar os oceanos de vermelho seria muito perturbador, então ele foi configurado para branco turvo e depois amarelo brilhante. Mas graças ao Red Dye, tudo ficaria com uma cor bem mais inquietante...
 
-Apesar de ser um vírus pegadinha que mudaria a cor para vermelho, sua construção foi muito complicada e requeria um grande nível de habilidade. Programadores e Hackers sempre colocavam muito esforço em suas pegadinhas e easter eggs......
+Apesar de ser um vírus pegadinha que mudaria a cor para vermelho, sua construção foi muito complicada e requeria um grande nível de habilidade. Programadores e Hackers sempre colocavam muito esforço em suas pegadinhas e referências ocultas......
 
 Toujirou: Você providenciou uma cópia de Red Dye para a pessoa que te pagou?
 
@@ -163,17 +163,18 @@ Agente de Serviços: Hoho! Fique pra você. Esse é meu ganhapão. Se manda!
 
 Toujirou: A pessoa que te fez matar B... Bem, suponho que não deixaram nenhuma abertura, mas conseguiu captar qualquer dica quanto a sua verdadeira identidade?
 
-Agente de Serviços: Ele usou um sapo merdão de avatar, e a conversa inteira não revelou absolutamente nenhuma indicação de sua nacionalidade, gênero ou qualquer outra característica.
+Agente de Serviços: Ele usou um sapo merdão de avatar, e a conversa inteira não revelou absolutamente nenhuma indicação de sua nacionalidade, sexo ou qualquer outra característica.
 
 Toujirou: Imaginei.
 
-Agente de Serviços: Mas sabe, amigo. Se você me dar uma pequena  gorgeta, esse seu hacker genial aqui te dará algo que só ele seria capaz de perceber.
+Agente de Serviços: Mas sabe, amigo. Se você me dar uma pequena gorgeta, este seu hacker genial aqui te dará algo que só ele seria capaz de perceber.
 
 Toujirou: Te darei o suficiente para um café. Mas se for verdadeiro, farei com que seja o suficiente para um Especial de Cinco Estrelas. O que você notou, Senhor Hacker Genial?
 
-Agente de Serviços: O motivo por estar sendo honesto com você agora é porque aquela pessoa era várias vezes melhor do que sou, e você tem o mesmo cheiro que ela. Soube de cara que não deveria te irritar, então abri o bico de cara.
+Agente de Serviços: O motivo por eu estar sendo honesto com você agora é porque aquela pessoa era várias vezes melhor do que sou, e você tem o mesmo cheiro que ela. Soube de cara que não deveria te irritar, então abri o bico de cara.
 
 Toujirou: Então... quando aquela pessoa te contou que sabia que você era o Green Reaper, então seria melhor você concordar com os termos dele, você não aceitou de cara?
+  
 Agente de Serviços: Isso aí. Assim como você roubou todas as minhas senhas no pequeno período de tempo em que acessei você, tentei atacar ele diretamente por meio de seu Selcom.
 
 Toujirou: E então?
@@ -186,7 +187,7 @@ Toujirou: ...Esse... não é um número de última geração. Isso é de classe 
 
 Agente de Serviços: É um valor de P3 insano, não é?! Sem chance que o governo poderia ignorar alguém capaz de gerar números como esses! Então deduzi. Essa pessoa era um Cavaleiro da Manopla!
 
-Se ela for um Cavaleiro da Manopla, seja soldado ou com a força policial, é definitivamente alguém ligado ao governo.
+Se ela for um Cavaleiro da Manopla, seja um soldado ou com a força policial, é definitivamente alguém ligado ao governo.
 
 Agente de Serviços: Foi nesse momento que desisti. E aquela pessoa não ia me prender, mas me deixou livre e ainda me deu dinheiro. Não tinha motivos para me opor a ela. É tudo que tenho a dizer.
 
@@ -204,7 +205,7 @@ Toujirou: Não precisa. ...Eles estão deixando ele viver, afinal.
 
 Toujirou: ..................
 
-....É como Grã-mestre diz, e esse foi apenas um capricho deles?
+....É como Grã-mestre disse, e esse foi apenas um capricho deles?
 
 Um jogo unilateral seria muito entediante, então eles deixaram essa abertura para nós intencionalmente?
 
