@@ -75,7 +75,7 @@ Toujirou: Por que você matou B, ao invés de apenas G?
 
 Agente de Serviços: Hã?
 
-Toujirou: Você é o Green Reaper, não é? Você está incentivando o desenvolvimento rápido da Amazônia, não é?
+Toujirou: Você é o Green Reaper, não é? Você está incentivando o desenvolvimento rápido da Amazônia, não está?
 
 Durante a Terceira Guerra Mundial, os países se enfrentaram com armas de destruição em massa e se destruíram completamente. No entanto, o continente de América do Sul foi abençoado por ser capaz de evitar a maioria do dano.
 
