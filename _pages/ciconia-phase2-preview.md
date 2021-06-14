@@ -92,7 +92,7 @@ Eventualmente, os escarços e vastos Campos Espirituais foram descobertos, a LAT
 
 No fim, graças ao vasto lucro vindo do Spiritium, não havia motivo para focar no desenvolvimento da Amazônia, e a LATO reinou no topo do mundo. Como concessão por emergir vitoriosa, a LATO anunciou que abandonaria o desenvolvimento da Amazônia, e que ela seria preservada como reserva natural para uso de toda humanidade.
 
-...Mas muitos jovens na LATO acreditavam que a nação se rendeu as antigas super potências da B3W, os lisonjeando e agindo como covardes. Para que a LATO permanecesse no topo do mundo para sempre. E para enviar uma mensagem de que a LATO nunca mais seria conquistada pelas antigas super potências da B3W. Os jovens, de maneira agressiva e imprudente, mantiveram a posição de que a vasta terra da Amazônia deveria ser desenvolvida imediatamente, e que os únicos que queriam que ela fosse preservada eram os estudiosos comprados pelas velhas super potências.
+...Mas muitos jovens na LATO acreditavam que a nação se rendeu as antigas super potências da B3W, os lisonjeando e agindo como covardes. Para que a LATO permanecesse no topo do mundo para sempre. E para enviar uma mensagem de que a LATO nunca mais seria conquistada pelas antigas super potências da B3W. Os jovens, de maneira agressiva e imprudente, mantiveram a posição de que a vasta terra da Amazônia deveria ser desenvolvida imediatamente, e que os únicos que queriam que ela fosse preservada eram os estudiosos comprados pelas antigas super potências.
 
 O Green Reaper era um dos que demandavam o seu desenvolvimento imediatamente.
 
