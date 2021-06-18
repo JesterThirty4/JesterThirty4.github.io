@@ -1,5 +1,5 @@
 ---
-title: Prólogo
+title: Capítulo 1 - Festival do Estandarte de Batalhas
 layout: single
 author_profile: false
 sidebar:
