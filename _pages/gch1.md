@@ -12,5 +12,4 @@ sidebar:
 
 <p style="color:#82faaa">A3W:</p> Provavelmente significa "After Third War" ou "Depois da Terceira Guerra".
 
-
 <p style="color:#82faaa">Koshka:</p> As falas de Koshka possuem um sotaque caipira russo, que não foi adaptado para versão em inglês, nem para esta em Português.
