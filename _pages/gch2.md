@@ -13,4 +13,6 @@ sidebar:
 
 <p style="color:#82faaa">Triatlo:</p> Atividade esportiva que reúne três modalidades ou provas esportivas diferentes (natação, ciclismo e corrida)
 
+<p style="color:#82faaa">e-sports:</p> Jogos virtuais online. 
+
 <p style="color:#82faaa">e-gamers:</p> Jogadores de esportes virtuais como vídeo-games.
