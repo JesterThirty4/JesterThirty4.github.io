@@ -12,3 +12,5 @@ sidebar:
 <p style="color:#82faaa">Triplete:</p> Triunfo em três competições esportivas na mesma temporada.
 
 <p style="color:#82faaa">Triatlo:</p> Atividade esportiva que reúne três modalidades ou provas esportivas diferentes (natação, ciclismo e corrida)
+
+<p style="color:#82faaa">e-gamers:</p> Jogadores de esportes virtuais como vídeo-games.
