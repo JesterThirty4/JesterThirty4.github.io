@@ -23,7 +23,7 @@ feature_row:
     url: "/_pages/haworthia-livreto-e-trilhas/"
     btn_class: "btn--primary"
     btn_label: "Leia aqui!"
-    - image_path: /assets/images/music-btn.png
+  - image_path: /assets/images/music-btn.png
     title: "Músicas Legendadas"
     excerpt: "Acervo de músicas de Ciconia que legendei."
     url: "/_pages/musicas/"
