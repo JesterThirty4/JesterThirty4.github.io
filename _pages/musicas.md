@@ -12,4 +12,4 @@ header:
 
  <p align=center><b>Trilhas Sonoras abaixo!</p></b>
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mrSmBaZ8MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="280" height="105" src="https://www.youtube.com/embed/mrSmBaZ8MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
