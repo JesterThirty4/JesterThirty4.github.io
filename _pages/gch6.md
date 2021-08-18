@@ -7,3 +7,5 @@ sidebar:
 ---
 
 <p style="color:#82faaa">Uso de "< >":</p> Significa que os personagens estão falando em Português no texto original.
+
+<p style="color:#82faaa">VIP:</p> Pessoa de alta classe, ou de muita importância.
