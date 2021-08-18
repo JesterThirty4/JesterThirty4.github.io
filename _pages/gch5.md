@@ -7,3 +7,4 @@ sidebar:
 ---
 
 <p style="color:#82faaa">CIWS:</p> Abreviação da sigla em Inglês "Close-in Weapon System", ou Sistema de Armas de Defesa Próxima, é um sistema naval e também terrestre para defesa de ponto, contra míssil anti-navio, Morteiros e aeronaves de ataque.
+<p style="color:#82faaa">Guriguriguri:</p> Som de massagem. 
