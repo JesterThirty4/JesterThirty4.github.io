@@ -12,4 +12,6 @@ sidebar:
 
 <p style="color:#82faaa">baka:</p> Uma pessoa que consome subculturas com paixão. Geralmente se refere a quem consome mangás, animes e jogos japoneses.
 
-<p style="color:#82faaa">Mai:</p> Empregada, na cena provavelmente se refere a maids de estilo vitoriano, que são populares no Japão, presentes em cosplays, animes e mangás.
+<p style="color:#82faaa">Maid:</p> Empregada, na cena provavelmente se refere a maids de estilo vitoriano, que são populares no Japão, presentes em cosplays, animes e mangás.
+
+<p style="color:#82faaa">One Peach, Slam Donk, Dragon Bell, Yuyusama Hakushon, Hunted x Hunted, JoJo's Bizarre Barbecue:</p> Referência a One Piece, Slam Dunk, Dragon Ball, Yu Yu Hakusho, Hunter x Hunter e Jojo's Bizarre Adventure.
