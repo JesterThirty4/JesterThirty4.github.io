@@ -11,3 +11,5 @@ sidebar:
 <p style="color:#82faaa">baka:</p> Idiota em japonês. Constantemente utilizado em anime e mangás por personagens tsundere que usam linguajar um pouco ofensivo com seus interesses amorosos.
 
 <p style="color:#82faaa">baka:</p> Uma pessoa que consome subculturas com paixão. Geralmente se refere a quem consome mangás, animes e jogos japoneses.
+
+<p style="color:#82faaa">Mai:</p> Empregada, na cena provavelmente se refere a maids de estilo vitoriano, que são populares no Japão, presentes em cosplays, animes e mangás.
