@@ -7,3 +7,5 @@ sidebar:
 ---
 
 <p style="color:#82faaa">Bobo:</p> Seshat brevemente chama Toujirou de bobo (Jester) em inglês.
+
+<p style="color:#82faaa">AMD:</p> Armas de Destruição em Massa
