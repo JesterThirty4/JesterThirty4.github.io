@@ -7,3 +7,5 @@ sidebar:
 ---
 
 <p style="color:#82faaa">Xogum:</p> Titulo concedido ao comandante do exército japonês, mas após 1192 foi usado para se referir ao verdadeiro governador ou imperador do país. 
+
+<p style="color:#82faaa">outro sapo cavaleiro?:</p> Referência ao Frog, personagem do jogo Chrono Trigger.
