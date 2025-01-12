@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Sobre Mim"
-    url: /_pages/sobre-mim/
-  - title: "Contato"
-    url: /_pages/contato
   - title: "Blog e Atualizações"
     url: /_pages/blog/
   - title: "Glossário"
